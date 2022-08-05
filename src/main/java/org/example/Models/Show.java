@@ -18,7 +18,7 @@ public class Show {
 
     @Basic
     private String name;
-    private String day;
+    private String Showday;
     private String season;
     private String genre;
 

@@ -48,17 +48,17 @@ public class Main {
         Show show3 = new Show();
 
         show1.setName("s1");
-        show1.setDay("d1");
+        show3.setShowday("d1");
         show1.setGenre("g1");
         show1.setSeason("Sea1");
 
         show2.setName("s2");
-        show2.setDay("d2");
+        show3.setShowday("d2");
         show2.setGenre("g2");
         show2.setSeason("Sea2");
 
         show3.setName("s3");
-        show3.setDay("d3");
+        show3.setShowday("d3");
         show3.setGenre("g3");
         show3.setSeason("Sea3");
 
